@@ -1,1 +1,1 @@
-# Interview-exercise-2
+My journey as a programmer has been an incredible adventure, filled with both challenges and triumphs. I first stumbled into the world of coding during [a specific event or time, e.g., "high school when I took my first computer science class" or "a tech workshop"]. What started as a curiosity quickly transformed into a passion as I discovered the power of creating solutions through code.
